@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.handong.csee.java.lab04.instargramChannel","l":"InstargramChannel"},{"p":"edu.handong.csee.java.lab04","l":"Main"},{"p":"edu.handong.csee.java.lab04.instargramChannel","l":"Post"},{"p":"edu.handong.csee.java.lab04.instargramChannel","l":"User"}]
