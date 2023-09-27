@@ -15,9 +15,9 @@ public class Calculator {
 
         String engineName = args[0].toUpperCase();
 
-        Computable engine =null;
+        Computable engine = null;
 
-        switch(engineName) {
+        switch (engineName) {
             case "LCM":
                 engine = new LCMEngine();
                 break;
@@ -53,9 +53,8 @@ public class Calculator {
         engine.setInput(args);
         engine.compute();
 
-        System.out.println("The result of " +  engineName + " is " + engine.getResult() + ".");
+        System.out.println("The result of " + engineName + " is " + engine.getResult() + ".");
 
     }
-
 
 }
